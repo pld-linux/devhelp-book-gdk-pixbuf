@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gdk-pixbuf
-Summary(pl):	Ksi±¿ka do DevHelpa o gdk-pixbuf
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o gdk-pixbuf
 Name:		devhelp-book-gdk-pixbuf
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about gdk-pixbuf.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o gdk-pixbuf.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o gdk-pixbuf.
 
 %prep
 %setup -q -c -n gdk-pixbuf
