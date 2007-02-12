@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gdk-pixbuf
-Summary(pl.UTF-8):   Książka do DevHelpa o gdk-pixbuf
+Summary(pl.UTF-8):	Książka do DevHelpa o gdk-pixbuf
 Name:		devhelp-book-gdk-pixbuf
 Version:	1.0
 Release:	1
